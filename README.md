@@ -38,12 +38,8 @@ If a Gaussian pulse is input to a linear system with a Gaussian impulse response
 | | Length | 50 km |
 
 **Required Calculations:**
-- RMS width of transmitted pulse (\(T_{in}\))  
-- RMS spectral width of transmitted pulse (\(\Delta \lambda\))  
-- RMS width of fiber impulse response (\(T_F\))  
-- RMS width of pulse at fiber far end (\(T_{out}\))  
+<img width="1548" height="298" alt="image" src="https://github.com/user-attachments/assets/b2fb676a-afb0-48ef-914b-309b2ea38a17" />
 
----
 
 ## Layout
 Place and connect the following components:
